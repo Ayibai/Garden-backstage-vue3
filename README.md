@@ -1,2 +1,24 @@
-# Garden-backstage-vue3
-使用vue3+mock开发的一款纯前端智能蔬果菜园的后台管理系统
+# zhcyweb
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
